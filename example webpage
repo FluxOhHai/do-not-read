@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Embedded Content</title>
+</head>
+<body>
+    <iframe src="https://tournaments.tourneybot.gg/tourneys/22611/embed" width="100%" height="500" frameborder="0" scrolling="auto" allowfullscreen="true" style="border-radius:8px;" allowtransparency="true"></iframe>
+</body>
+</html>
